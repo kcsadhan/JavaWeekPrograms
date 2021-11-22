@@ -13,7 +13,7 @@ public class P4 {
         for(int i=1;i<=num;i++){
             if(num%i==0){
                 if(P4.prime(i)==2)
-                    System.out.println(i);
+                    System.out.println(i);//hi bro
             }
         }
     }
