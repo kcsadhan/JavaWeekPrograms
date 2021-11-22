@@ -16,6 +16,5 @@ public class P4 {
                     System.out.println(i);
             }
         }
-        //System.out.println(P4.prime(4));
     }
 }
